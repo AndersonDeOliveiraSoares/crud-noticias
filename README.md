@@ -35,16 +35,16 @@ Crud simples, exemplificando a utilização de Python (Flask) para a construçã
 6) Criar na raíz do projeto Python um arquivo chamado **.env** e atribuir a ele o seguinte conteúdo
 
 ```
-	PORT=8000
-	DEBUG=False
-	THREADS=3
-	# Environment optios: PRD or DEV
-	ENVIRONMENT=PRD
-	JWT_SECRET_KEY = t1NP63m4wnBg6nyHYKfmc2TpCOGI4nss
-	SECRET_KEY = 5or414C3nP35p37R0Br45
-	DB_NAME=news
-	DB_HOST=127.0.0.1
-	DB_PORT=27017
+PORT=8000
+DEBUG=False
+THREADS=3
+# Environment optios: PRD or DEV
+ENVIRONMENT=PRD
+JWT_SECRET_KEY = t1NP63m4wnBg6nyHYKfmc2TpCOGI4nss
+SECRET_KEY = 5or414C3nP35p37R0Br45
+DB_NAME=news
+DB_HOST=127.0.0.1
+DB_PORT=27017
 ```
 
 7) Executar o projeto Python:
