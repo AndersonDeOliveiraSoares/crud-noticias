@@ -32,7 +32,7 @@ Crud simples, exemplificando a utilização de Python (Flask) para a construçã
 virtualenv API_ENV
 source API_ENV/bin/activate
 pip install -r requirements.txt
-``
+```
 
 6) Criar na raíz do projeto Python um arquivo chamado **.env** e atribuir a ele o seguinte conteúdo
 
