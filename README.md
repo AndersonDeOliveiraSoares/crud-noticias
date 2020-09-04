@@ -28,9 +28,11 @@ Crud simples, exemplificando a utilização de Python (Flask) para a construçã
 
 5) Ir para a pasta do projeto Python, criar uma virtualenv, ativa-la e instalar as dependências do mesmo:
 
-	virtualenv API_ENV
-	source API_ENV/bin/activate
-	pip install -r requirements.txt
+```
+virtualenv API_ENV
+source API_ENV/bin/activate
+pip install -r requirements.txt
+```
 
 6) Criar na raíz do projeto Python um arquivo chamado **.env** e atribuir a ele o seguinte conteúdo
 
