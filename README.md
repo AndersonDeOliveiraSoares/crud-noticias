@@ -69,5 +69,5 @@ DB_PORT=27017
 
 Caso se desejável, os dois projetos acima podem ser vistos separadamente em seus respectivos repositórios, visto que estes não foram incluídos como dependencias do repo atual.
 
-https://github.com/alessdr/noticias
-https://github.com/alessdr/noticias_react
+[Projeto Python (API)] (https://github.com/alessdr/noticias)
+[Projeto React (UI)] (https://github.com/alessdr/noticias_react)
