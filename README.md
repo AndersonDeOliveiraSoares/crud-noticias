@@ -59,3 +59,8 @@ DB_PORT=27017
 
 	npm start
 
+10) Acessar o endereço abaixo
+
+	http://127.0.0.1:3000
+
+
