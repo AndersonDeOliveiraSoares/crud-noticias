@@ -34,6 +34,7 @@ Crud simples, exemplificando a utilização de Python (Flask) para a construçã
 
 6) Criar na raíz do projeto Python um arquivo chamado **.env** e atribuir a ele o seguinte conteúdo
 
+```
 	PORT=8000
 	DEBUG=False
 	THREADS=3
@@ -44,7 +45,7 @@ Crud simples, exemplificando a utilização de Python (Flask) para a construçã
 	DB_NAME=news
 	DB_HOST=127.0.0.1
 	DB_PORT=27017
-
+```
 
 7) Executar o projeto Python:
 
