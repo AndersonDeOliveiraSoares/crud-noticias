@@ -32,7 +32,7 @@ Crud simples, exemplificando a utilização de Python (Flask) para a construçã
 virtualenv API_ENV
 source API_ENV/bin/activate
 pip install -r requirements.txt
-```
+``
 
 6) Criar na raíz do projeto Python um arquivo chamado **.env** e atribuir a ele o seguinte conteúdo
 
@@ -65,4 +65,7 @@ DB_PORT=27017
 
 	http://127.0.0.1:3000
 
+## Caso se desejável, os dois projetos acima podem ser vistos separadamente em seus respectivos repositórios, visto que estes não foram incluídos como dependencias do repo atual.
 
+https://github.com/alessdr/noticias
+https://github.com/alessdr/noticias_react
