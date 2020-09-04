@@ -4,9 +4,9 @@ Crud simples, exemplificando a utilização de Python (Flask) para a construçã
 
 ## Pré-requisitos
 
-. Docker
-. Python 3.7 ou superior (com virtualenv e pip)
-. NodeJS
+* Docker
+* Python 3.7 ou superior (com virtualenv e pip)
+* NodeJS
 
 ## Instalação
 
